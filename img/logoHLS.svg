@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62px"
+   height="62px"
+   viewBox="0 0 63 63"
+   version="1.1"
+   id="svg78"
+   sodipodi:docname="logoHLS.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata84">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs82" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1525"
+     inkscape:window-height="713"
+     id="namedview80"
+     showgrid="false"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="-42.266952"
+     inkscape:cy="-1.2711881"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg78" />
+  <g
+     id="g930"
+     transform="matrix(0.78947368,0,0,0.78947368,-7.1008029,-8.4567348)">
+    <g
+       stroke="0"
+       id="celeste"
+       style="fill:#00a6ca">
+      <circle
+         id="circle2"
+         r="1"
+         cy="28.5"
+         cx="62.5" />
+      <circle
+         id="circle4"
+         r="1"
+         cy="26.4"
+         cx="58" />
+      <circle
+         id="circle6"
+         r="1.5"
+         cy="25"
+         cx="52" />
+      <circle
+         id="circle8"
+         r="2"
+         cy="25.5"
+         cx="45" />
+      <circle
+         id="circle10"
+         r="2.5"
+         cy="28"
+         cx="38" />
+      <circle
+         id="circle12"
+         r="3"
+         cy="34"
+         cx="31" />
+      <circle
+         id="circle14"
+         r="3.5"
+         cy="43"
+         cx="26" />
+      <circle
+         id="circle16"
+         r="4"
+         cy="54"
+         cx="25.5" />
+      <circle
+         id="circle18"
+         r="4.5"
+         cy="65"
+         cx="30" />
+      <circle
+         id="circle20"
+         r="1"
+         cy="15"
+         cx="50" />
+      <circle
+         id="circle22"
+         r="1"
+         cy="16"
+         cx="41.5" />
+      <circle
+         id="circle24"
+         r="1.5"
+         cy="19.5"
+         cx="32.5" />
+      <circle
+         id="circle26"
+         r="2"
+         cy="26"
+         cx="24.5" />
+      <circle
+         id="circle28"
+         r="2.5"
+         cy="36.5"
+         cx="17.799999" />
+      <circle
+         id="circle30"
+         r="3"
+         cy="49.5"
+         cx="15" />
+      <circle
+         id="circle32"
+         r="3.5"
+         cy="63.5"
+         cx="17.5" />
+      <circle
+         id="circle34"
+         r="4"
+         cy="75.5"
+         cx="26" />
+      <circle
+         id="circle36"
+         r="4.5"
+         cy="83.5"
+         cx="39" />
+    </g>
+    <text
+       id="text39"
+       style="font-style:normal;font-weight:normal;font-family:Tahoma;text-anchor:middle;fill:#808080;stroke:#000000"
+       font-weight="normal"
+       font-style="normal"
+       y="55"
+       x="50">HLS</text>
+    <g
+       stroke="0"
+       id="azul"
+       style="fill:#0000ff">
+      <circle
+         id="circle41"
+         r="1"
+         cy="71.5"
+         cx="37" />
+      <circle
+         id="circle43"
+         r="1"
+         cy="74"
+         cx="42.5" />
+      <circle
+         id="circle45"
+         r="1.5"
+         cy="75"
+         cx="49" />
+      <circle
+         id="circle47"
+         r="2"
+         cy="74.300003"
+         cx="56" />
+      <circle
+         id="circle49"
+         r="2.5"
+         cy="71.300003"
+         cx="63.5" />
+      <circle
+         id="circle51"
+         r="3"
+         cy="65"
+         cx="70.5" />
+      <circle
+         id="circle53"
+         r="3.5"
+         cy="56"
+         cx="74.5" />
+      <circle
+         id="circle55"
+         r="4"
+         cy="45"
+         cx="74.800003" />
+      <circle
+         id="circle57"
+         r="4.5"
+         cy="34"
+         cx="70" />
+      <circle
+         id="circle59"
+         r="1"
+         cy="85"
+         cx="51" />
+      <circle
+         id="circle61"
+         r="1"
+         cy="83"
+         cx="61" />
+      <circle
+         id="circle63"
+         r="1.5"
+         cy="78.300003"
+         cx="70.599998" />
+      <circle
+         id="circle65"
+         r="2"
+         cy="70.5"
+         cx="78.5" />
+      <circle
+         id="circle67"
+         r="2.5"
+         cy="59.5"
+         cx="83.5" />
+      <circle
+         id="circle69"
+         r="3"
+         cy="46.5"
+         cx="85" />
+      <circle
+         id="circle71"
+         r="3.5"
+         cy="33"
+         cx="81" />
+      <circle
+         id="circle73"
+         r="4"
+         cy="23"
+         cx="72.5" />
+      <circle
+         id="circle75"
+         r="4.5"
+         cy="16.5"
+         cx="60" />
+    </g>
+  </g>
+</svg>
