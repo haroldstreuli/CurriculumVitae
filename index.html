@@ -7,9 +7,13 @@
     <meta name="author" content="Haroldo Streuli">
     <meta name="keywords" content="haroldo, streli, curriculum">
     <title>Curriculum Vitae - Haroldo Streuli</title>
+    <link rel="stylesheet" href="css/estilos.css">
   </head>
-  <body>
-    <header>
+  <body id="contenedor1">
+    <!---
+      Encabezado del curriculum, esta seccion contiene el Logo, informacion personal y el menú de contenido
+    -->
+    <header id="encabezado">
       <a href="index.html"><img src="img\logoHLS.svg" alt="Haroldo Streuli"></a>
       <h1>Curriculum Vitae</h1>
       <h2>Haroldo Luis Streuli</h2>
@@ -22,89 +26,96 @@
         <a href="experiencia.html"><strong>Experiencia</strong></a>
       </p>
     </nav>
-    <section>
+    <!---
+        Esta seccion contiene la Foto y descripcion acerca de mi perfil profesional. y principales logros
+      -->
+    <section id="acercaDeMi">
       <h2>Informaci&oacute;n Personal</h2>
-      <img src="img\Harold_Streuli.jpg" alt="Foto Perfil" title="Foto Perfil" width="150px"/>
-    </section>
-    <section>
-      <h2>Perfil</h2>
-      <p>
-        Soy un Profesional de sistemas que a lo largo de 20 a&ntilde;os ha realizado tareas en todas las &aacute;reas tecnol&oacute;gicas
-        de empresas e instituciones de diversa envergadura desde soporte t&eacute;cnico hasta direcci&oacute;n de departamento IT.
-        Competente, comprometido, estricto y perseverante. Con gran capacidad de adaptaci&oacute;n a proyectos individuales o
-        de interacci&oacute;n con equipos numerosos.
-      </p>
-      <p>
-        <strong>
-          Entre los principales logros se encuentran:
-        </strong>
-      </p>
-      <ul>
-        <li>
-          <p>
-            El diseño y administraci&oacute;n de soluciones de infraestructura web para Sitios
-            con alta demanda de tr&aacute;fico y recursos, Ejemplos son:
-          </p>
-          <ul>
-            <li>
-              <p><em>
-                Servidores Web de importante Universidad en Argentina.
-              </em></p>
-            </li>
-            <li>
-              <p><em>
-                Servidores con Balanceo de Carga, instancias de Bases de datos y nodos para
-                sistema de reservas hoteleras, de empresa en Argentina.
-              </em></p>
-            </li>
-            <li>
-              <p><em>
-                Implementaci&oacute;n de esquemas de servidores e instancias de DB en proveedores
-                Azure y Amazon para empresas de Canad&aacute; y EEUU.
-              </em></p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Participaci&oacute;n activa en el diseño y satisfactoria conclusi&oacute;n de varios
-            proyectos de infraestructura de Red de datos de importante Universidad en Argentina
-            con configuraci&oacute;n de equipos enlazados con F.O.
-          </p>
-        </li>
-        <li>
-          <p>
-            Diseño e implementaci&oacute;n de la Red Wifi con administraci&oacute;n
-            centralizada para Campus Universitario en Puerto Madero con Controller y APs Cisco y
-            autenticaci&oacute;n unificada con capacidades de roaming entre APs.
-          </p>
-        </li>
-        <li>
-          <p>
-            Instalaci&oacute;n y administraci&oacute;n de servidores Virtualizados y de servidores dedicados
-            (VBox, VMWare, Linux, WHM / cPanel, Subversion, GitLab, LAMP, Zabbix entre otros).
-          </p>
-        </li>
-      </ul>
-      <p>
-        <strong>
-          Idiomas:
-        </strong>
-      </p>
-      <ul>
-        <li>
-          <p>Lee: <em>Ingles</em> </p>
-        </li>
-        <li>
-          <p>Habla: <em>Ingles</em> </p>
-        </li>
-        <li>
-          <p>Escribe: <em>Ingles</em> </p>
-        </li>
-      </ul>
+      <img src="img\Harold_Streuli.jpg" alt="Foto Perfil" title="Foto Perfil" width="200px"/>
+      <article id="perfil">
+        <h2>Perfil</h2>
+        <p>
+          Soy un Profesional de sistemas que a lo largo de 20 a&ntilde;os ha realizado tareas en todas las &aacute;reas tecnol&oacute;gicas
+          de empresas e instituciones de diversa envergadura desde soporte t&eacute;cnico hasta direcci&oacute;n de departamento IT.
+          Competente, comprometido, estricto y perseverante. Con gran capacidad de adaptaci&oacute;n a proyectos individuales o
+          de interacci&oacute;n con equipos numerosos.
+        </p>
+      </article>
+      <article id="logros">
+        <p>
+          <strong>
+            Entre los principales logros se encuentran:
+          </strong>
+        </p>
+        <ul>
+          <li>
+            <p>
+              El diseño y administraci&oacute;n de soluciones de infraestructura web para Sitios
+              con alta demanda de tr&aacute;fico y recursos, Ejemplos son:
+            </p>
+            <ul>
+              <li>
+                <p><em>
+                  Servidores Web de importante Universidad en Argentina.
+                </em></p>
+              </li>
+              <li>
+                <p><em>
+                  Servidores con Balanceo de Carga, instancias de Bases de datos y nodos para
+                  sistema de reservas hoteleras, de empresa en Argentina.
+                </em></p>
+              </li>
+              <li>
+                <p><em>
+                  Implementaci&oacute;n de esquemas de servidores e instancias de DB en proveedores
+                  Azure y Amazon para empresas de Canad&aacute; y EEUU.
+                </em></p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p>
+              Participaci&oacute;n activa en el diseño y satisfactoria conclusi&oacute;n de varios
+              proyectos de infraestructura de Red de datos de importante Universidad en Argentina
+              con configuraci&oacute;n de equipos enlazados con F.O.
+            </p>
+          </li>
+          <li>
+            <p>
+              Diseño e implementaci&oacute;n de la Red Wifi con administraci&oacute;n
+              centralizada para Campus Universitario en Puerto Madero con Controller y APs Cisco y
+              autenticaci&oacute;n unificada con capacidades de roaming entre APs.
+            </p>
+          </li>
+          <li>
+            <p>
+              Instalaci&oacute;n y administraci&oacute;n de servidores Virtualizados y de servidores dedicados
+              (VBox, VMWare, Linux, WHM / cPanel, Subversion, GitLab, LAMP, Zabbix entre otros).
+            </p>
+          </li>
+        </ul>
+      </article>
+      <article id="idiomas">
+        <p>
+          <strong>
+            Idiomas:
+          </strong>
+        </p>
+        <ul>
+          <li>
+            <p>Lee: <em>Ingles</em> </p>
+          </li>
+          <li>
+            <p>Habla: <em>Ingles</em> </p>
+          </li>
+          <li>
+            <p>Escribe: <em>Ingles</em> </p>
+          </li>
+        </ul>
+      </article>
     </section>
   </body>
-  <footer>
+  <footer id="pie">
     <h3>Contacto:</h3>
     <p>
       <a href="mailto:harold@streuli.com.ar?subject=Contacto-CV">
