@@ -1,0 +1,30 @@
+footer
+{
+  margin-top: 20px;
+}
+#contenedor
+{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#encabezado
+{
+  display: block;
+  margin: 0 auto;
+}
+.indice
+{
+  list-style-type: upper-roman;
+}
+.enlace
+{
+  color: black;
+}
+a[href$='html']{
+  color: Red;
+}
+
+img[src$='.jpg'],img[src$='.png']{
+  border: 1px solid black;
+  border-radius: 10px
+}
