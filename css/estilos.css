@@ -1,3 +1,7 @@
+body
+{
+  background-color: #FBFCFC;
+}
 footer
 {
   margin-top: 20px;
@@ -21,10 +25,27 @@ footer
   color: black;
 }
 a[href$='html']{
-  color: Red;
+  color: rgb(60, 110, 143);
 }
 
 img[src$='.jpg'],img[src$='.png']{
   border: 1px solid black;
-  border-radius: 10px
+  border-radius: 15px
+}
+
+
+h1 + h2{
+  text-decoration: underline;
+}
+
+*{
+  margin: 1vh 1vw;
+}
+
+h2 ~ p{
+  text-align: justify;
+}
+
+article> h2 {
+  text-decoration: underline;
 }
